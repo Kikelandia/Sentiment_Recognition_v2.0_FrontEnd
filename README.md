@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Sentiment_Recognition_v2.0_FrontEnd
+
+Full Stack development to implement previous model to predict emotions through facial expression
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
